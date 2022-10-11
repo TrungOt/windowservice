@@ -1,0 +1,13 @@
+﻿  WindowsService.cpp
+C:\Users\ADMIN\Desktop\WindowsForm\WINDOWS MFC\WindowsService\WindowsService\WindowsService.cpp(3,1): warning C4005: 'UNICODE': macro redefinition
+C:\Users\ADMIN\Desktop\WindowsForm\WINDOWS MFC\WindowsService\WindowsService\WindowsService.cpp(3,1): message : 'UNICODE' previously declared on the command line
+C:\Users\ADMIN\Desktop\WindowsForm\WINDOWS MFC\WindowsService\WindowsService\WindowsService.cpp(205,34): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ADMIN\Desktop\WindowsForm\WINDOWS MFC\WindowsService\WindowsService\WindowsService.cpp(246,21): warning C4101: 'cbReplyBytes': unreferenced local variable
+C:\Users\ADMIN\Desktop\WindowsForm\WINDOWS MFC\WindowsService\WindowsService\WindowsService.cpp(246,46): warning C4101: 'cbToWrite': unreferenced local variable
+C:\Users\ADMIN\Desktop\WindowsForm\WINDOWS MFC\WindowsService\WindowsService\WindowsService.cpp(246,35): warning C4101: 'cbWritten': unreferenced local variable
+  Generating code
+  1 of 24 functions ( 4.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  WindowsService.vcxproj -> C:\Users\ADMIN\Desktop\WindowsForm\WINDOWS MFC\WindowsService\WindowsService\Release\WindowsService.exe

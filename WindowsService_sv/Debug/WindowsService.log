@@ -1,0 +1,5 @@
+﻿  WindowsService.cpp
+C:\Users\ADMIN\Desktop\WindowsForm\WINDOWS MFC\WindowsService\WindowsService\WindowsService.cpp(3,1): warning C4005: 'UNICODE': macro redefinition
+C:\Users\ADMIN\Desktop\WindowsForm\WINDOWS MFC\WindowsService\WindowsService\WindowsService.cpp(3,1): message : 'UNICODE' previously declared on the command line
+C:\Users\ADMIN\Desktop\WindowsForm\WINDOWS MFC\WindowsService\WindowsService\WindowsService.cpp(174,34): warning C4018: '<': signed/unsigned mismatch
+  WindowsService.vcxproj -> C:\Users\ADMIN\Desktop\WindowsForm\WINDOWS MFC\WindowsService\WindowsService\Debug\WindowsService.exe
