@@ -1,0 +1,1 @@
+# windowservice run as adminstator
