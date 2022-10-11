@@ -1,0 +1,3 @@
+﻿  DisplayService.cpp
+C:\Users\ADMIN\Desktop\WindowsForm\WINDOWS MFC\WindowsService\DisplayService\DisplayService.cpp(216,12): warning C4101: 'cbRead': unreferenced local variable
+  DisplayService.vcxproj -> C:\Users\ADMIN\Desktop\WindowsForm\WINDOWS MFC\WindowsService\DisplayService\x64\Debug\DisplayService.exe
